@@ -13,7 +13,7 @@
 [Install ruby on rail](https://gorails.com/setup/osx/10.13-high-sierra)
 
 
-* How to run 
+**How to run**
 
 
 - Terminal move to folder
@@ -33,5 +33,5 @@ $ rails server
 http://localhost:3000
 ```
 
-* Requirement
+**Requirement**
 [お題 / Coding Challenge](https://sample-accounts-api.herokuapp.com)
