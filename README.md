@@ -1,6 +1,6 @@
 # README
 
-**Account list app by Ruby **
+**Account list app by Ruby**
 
 * Home screen:
 ![](public/user1.png)
@@ -14,6 +14,7 @@
 
 
 * How to run 
+
 
 - Terminal move to folder
 ```
